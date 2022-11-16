@@ -5,7 +5,7 @@ int main (void){
 
     int Pick_Number ,given_number;
     time_t t;
-
+srand((unsigned)time(&t));
     printf("Please a chooche Number");
 
     scanf("%d",&given_number);
