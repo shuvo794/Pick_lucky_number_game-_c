@@ -5,6 +5,7 @@ int main (void){
 
     int Pick_Number ,given_number;
     time_t t;
+    
     srand((unsigned)time(&t));
 
     Pick_Number = rand() %10 +1 ;
