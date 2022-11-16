@@ -16,9 +16,9 @@ int main (void){
     if (Pick_Number == given_number)
        {
     printf("You are win");
-       }else{
-    printf("You are loss %d\n",Pick_Number);
-}
+           }else{
+        printf("You are loss %d\n",Pick_Number);
+             }
 
 
 
