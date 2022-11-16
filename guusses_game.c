@@ -8,6 +8,8 @@ scanf("%d",&given_number);
 if (Pick_Number == given_number)
 {
     printf("You are win");
+}else{
+    printf("You are loss");
 }
 
 
