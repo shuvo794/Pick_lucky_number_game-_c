@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 int main (void){
-    
+
     int Pick_Number ,given_number;
+    time_t t;
 
     printf("Please a chooche Number");
 
