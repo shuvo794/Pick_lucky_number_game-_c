@@ -4,12 +4,12 @@
 int main (void){
     int Pick_Number ,given_number;
     printf("Please a chooche Number");
-scanf("%d",&given_number);
+    scanf("%d",&given_number);
 
-if (Pick_Number == given_number)
-{
+    if (Pick_Number == given_number)
+       {
     printf("You are win");
-}else{
+       }else{
     printf("You are loss");
 }
 
