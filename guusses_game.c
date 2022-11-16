@@ -7,7 +7,7 @@ int main (void){
     time_t t;
     srand((unsigned)time(&t));
 
-    Pick_Number = rand() %2 ;
+    Pick_Number = rand() %10 +1 ;
 
     printf("Please a chooche Number");
 
