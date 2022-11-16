@@ -17,7 +17,7 @@ int main (void){
        {
     printf("You are win");
        }else{
-    printf("You are loss");
+    printf("You are loss %d\n",Pick_Number);
 }
 
 
